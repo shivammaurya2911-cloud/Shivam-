@@ -1,0 +1,8 @@
+{
+  "name": "Shivam",
+  "description": "A social media platform inspired by Instagram for sharing photos and connecting with friends.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
